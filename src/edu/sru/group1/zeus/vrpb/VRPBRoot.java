@@ -1,8 +1,5 @@
 /*
-  Group1
-  Ryan Schlernitzauer
-  Andrew Butterfield
-  Adam Riddle
+ 
   
   Based off Dr. Thangiah template of Zeus
     
